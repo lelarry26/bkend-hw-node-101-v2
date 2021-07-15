@@ -7,7 +7,6 @@ Run `node` in the terminal and `console.log()` the string `"Hello World."`
 ## 2 - Hello Node
 
 * Create an `index.js` file, and have it log the string `"Hello World, I am in Node."` to the console.
-* Execute the file by passing the filename as an argument to `node`
 
 ## 3 - Hello World Server
 
